@@ -14,7 +14,3 @@ JavaScript (ES6)
 
 🎯 Purpose
 To practice writing clear, reusable functions and strengthen core JavaScript fundamentals.
-
-
-# lucian_lasanga
-Solution to the Lasagna exercise from Exercism using JavaScript.
